@@ -1,3 +1,6 @@
 # Toyota_Data_Analysis_Assignment
 This assignment  analyzes the Toyota dataset to predict and classify car data using multiple machine learning algorithms — Linear Regression, Logistic Regression, and Decision Tree. The models are compared based on their performance accuracy to determine which algorithm works best for this dataset.
+linear regression : rmse value :2274854.3283718545
+logistic regression : accuracy :0.08680555555555555
+descision tree: accuracy : 0.0763888888888889
 
